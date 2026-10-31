@@ -3,7 +3,7 @@
 **Full Stack Developer · Kenitra, Morocco · Open to freelance work**
 
 I build full stack web apps with **React, Next.js, Node.js and TypeScript**, from the database to deployment.
-Right now I'm building a production-style job board with Next.js 16, Docker and DigitalOcean.
+Right now I'm building a production-style job board with Next.js 16, MongoDB and NextAuth.
 
 ---
 
@@ -29,6 +29,7 @@ A full stack online store with a separate REST API and frontend.
 
 **[Live demo](https://ecommerce-shop-eight-sigma.vercel.app/)** · **[Code](https://github.com/vannbo-93/E-commerce-1)**
 
+<!--
 ### [Wadifa — Job Board](https://github.com/vannbo-93/job-board)
 A job board with a public site and an admin dashboard, served from one Next.js app.
 
@@ -36,7 +37,8 @@ A job board with a public site and an admin dashboard, served from one Next.js a
 - Public site and admin dashboard split with route groups and a `proxy.ts` that routes by subdomain
 - Dockerized with a multi-stage build and `standalone` output, auto-deployed to DigitalOcean on every push
 
-**[Live demo](https://job-board-production-h3jfh.ondigitalocean.app)** · **[Code](https://github.com/vannbo-93/job-board)**
+**[Live demo](LINK_TO_VERCEL)** · **[Code](https://github.com/vannbo-93/job-board)**
+-->
 
 ---
 
@@ -57,14 +59,15 @@ A job board with a public site and an admin dashboard, served from one Next.js a
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=black)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)
 
 ---
 
 ## Contact
- 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-el-aissaoui7/)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0158fc3b7499210169)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isawimed08@gmail.com)
- 
+
 📧 **isawimed08@gmail.com**
